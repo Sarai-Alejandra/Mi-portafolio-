@@ -8,12 +8,14 @@ export const Educacion = () => {
       title: "Analista programador",
       subtitle: "Duoc uc",
       date: "2025 - en curso",
-      description: "Especialización en componentes, consumo de APIs, manejo de estado con Hooks y Testing."
+      description: "Formación enfocada en el análisis, diseño y desarrollo de software, abarcando bases de datos, lógica de programación y metodologías de desarrollo web."
     },
     {
       id: 2,
       title: "Educación básica y media",
-      description: "Completa "
+      subtitle: "Cemar, Cem, Los libertadores de Maipú.",
+      date:"¿¿-2024",
+      description: "Completa."
     }
   ];
 
